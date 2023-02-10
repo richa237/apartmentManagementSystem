@@ -28,6 +28,14 @@ As a tenant, I want to be able to view status of maintenance report so that I ca
 
 As a tenant, I want to be able to view maintenance report so that I can see what and how many requests I have submitted in the past.
 
+### Pay Rent
+
+As a tenant, I want to be able to pay the rent online so I can submit monthly rent payment through the portal.
+
+### Receive rent payment confirmation
+
+As a tenant, I want to be able to receive payment confirmation so that I can get a reference number as a payment comfirmation.
+
 ### Admin reply to request 
 
 As an admin, I want to be able to reply to request so I can ask any additional questions related to the request.
@@ -48,11 +56,7 @@ As an admin, I want to be able to mark the requests completed so that I can keep
 
 As an admin, I want to be able to view and filter requests based on status (received, in progress, complete) so that I can see which requestes are still open.*
 
+### Password Reset
 
-
-
-
-
-
-
+As a registered tenant or admin, I want to be able to be able to reset my password so that I can reset password in case I forget it.
  
